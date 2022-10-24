@@ -24,7 +24,7 @@
 🌱 <strong>Aprendendo:
   <div style="display: inline_block">
   <a href="https://github.com/BrendaAndreia">
-<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/python-original.svg">
+<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img alt="Brenda-DotNet" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
 <img alt="Brenda-Post" height="30" width="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
   </a>
