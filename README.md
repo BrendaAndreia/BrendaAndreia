@@ -17,6 +17,7 @@
 <img alt="Brenda-Js" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img alt="Brenda-C" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img alt="Brenda-Java" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="Brenda-Post" height="30" width="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
   </a>
 </div>
 <br>
@@ -24,8 +25,9 @@
 🌱 <strong>Aprendendo:
   <div style="display: inline_block">
   <a href="https://github.com/BrendaAndreia">
-<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img alt="Brenda-Post" height="30" width="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
 </div>
   
