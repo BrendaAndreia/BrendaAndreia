@@ -1,4 +1,4 @@
-<a href="https://github.com/BrendaAndreia"><img align="right" alt="Brenda-Gif" height="128" width="128" src="[https://github.com/BrendaAndreia/BrendaAndreia/blob/7c588b7658545189d6e9ebc5f4bb8a36f68a85ca/gifpreto.gif](https://github.com/BrendaAndreia/BrendaAndreia/blob/main/gifpreto.gif?raw=true)"></a>
+<a href="https://github.com/BrendaAndreia"><img align="right" alt="Brenda-Gif" height="128" width="128" src="https://github.com/BrendaAndreia/BrendaAndreia/blob/main/gifpreto.gif"></a>
 
 ### Oii! Eu sou a Bê
 #### Estudante de Sistemas de Informação [INF UFG](https://https://www.inf.ufg.br/)
