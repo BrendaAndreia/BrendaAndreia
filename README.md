@@ -26,8 +26,8 @@
   <div style="display: inline_block">
   <a href="https://github.com/BrendaAndreia">
 <img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img alt="Brenda-Spring" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img alt="Brenda-React" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
 </div>
   
