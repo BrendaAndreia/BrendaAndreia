@@ -15,7 +15,7 @@
 <img alt="Brenda-Bootstrap" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Brenda-Js" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Brenda-C"  align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img alt="Brenda-Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="Brenda-Java" align="center" src="https://img.shields.io/badge/Java-CC6699?style=for-the-badge&logo=java&logoColor=white">
 <img alt="Brenda-Post" align="center"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div>
 <br>
@@ -23,10 +23,8 @@
 🌱 <strong>Aprendendo:
   <div style="display: inline_block">
   
-<img alt="Brenda-Spring"  align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-">
-<img alt="Brenda-React"   align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-">
+<img alt="Brenda-Spring"  align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img alt="Brenda-React"   align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 </div>
   
