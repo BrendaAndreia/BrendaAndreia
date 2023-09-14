@@ -10,15 +10,13 @@
 💻 <strong>Linguagens e Ferramentas:
   
 <div style="display: inline_block">
-  <a href="https://github.com/BrendaAndreia">
-[<img alt="Brenda-Html" height="40" width="60" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="Brenda-Html" height="40" width="60" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="Brenda-Css3" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img alt="Brenda-Bootstrap" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img alt="Brenda-Js" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img alt="Brenda-C" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img alt="Brenda-Java" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img alt="Brenda-Post" height="30" width="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
-  </a>
 </div>
 <br>
 
