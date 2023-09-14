@@ -11,22 +11,28 @@
   
 <div style="display: inline_block">
 <img alt="Brenda-Html" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Brenda-Css3" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<img alt="Brenda-Bootstrap" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img alt="Brenda-Js" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img alt="Brenda-C" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img alt="Brenda-Java" height="30" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Brenda-Post" height="30" width="40" align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+<img alt="Brenda-Css3" align="center" src="https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="Brenda-Bootstrap" height="30" width="40" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+">
+<img alt="Brenda-Js"  align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+">
+<img alt="Brenda-C"  align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+">
+<img alt="Brenda-Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+">
+<img alt="Brenda-Post" align="center"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+"> 
 </div>
 <br>
 
 🌱 <strong>Aprendendo:
   <div style="display: inline_block">
-  <a href="https://github.com/BrendaAndreia">
-<img alt="Brenda-Cs" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img alt="Brenda-Spring" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img alt="Brenda-React" height="30" width="40"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
+  
+<img alt="Brenda-Spring"  align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+">
+<img alt="Brenda-React"   align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+">
+  
 </div>
   
    ##
